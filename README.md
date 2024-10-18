@@ -124,5 +124,4 @@ ORDER BY ProductCodes DESC;
 
 
 
-#Conclusion
-This project demonstrates how to perform a comprehensive analysis of sales data using SQL, providing valuable insights into sales trends, customer behavior, and product performance.
+```
